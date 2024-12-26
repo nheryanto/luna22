@@ -1,0 +1,2 @@
+conda create -n luna22 python=3.10 -y
+conda activate luna22
