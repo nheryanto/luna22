@@ -65,7 +65,7 @@ N_CLASS = 2
 IMG_DIR = "../data/lung-window-roi-npy"
 
 KFOLD = [0, 1, 2, 3, 4]
-NUM_EPOCHS = 2
+NUM_EPOCHS = 50
 
 DEVICE = "cuda"
 PRETRAINED = True
